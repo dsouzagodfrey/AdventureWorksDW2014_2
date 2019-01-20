@@ -1,0 +1,12 @@
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\bin\Debug\TestProj1.dll.config
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\bin\Debug\TestProj1.dll
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\bin\Debug\TestProj1.pdb
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\obj\Debug\TestProj1.csproj.CoreCompileInputs.cache
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\obj\Debug\TestProj1.csproj.CopyComplete
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\obj\Debug\TestProj1.dll
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\obj\Debug\TestProj1.pdb
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\obj\Debug\TestProj1.csproj.GenerateResource.cache
+C:\GIT_Repos\DataBaseProject_AdventureWorksDW2014\AdventureWorksDW2014\TestProj1\obj\Debug\TestProj1.SqlServerUnitTest_MinimumDate.resources
