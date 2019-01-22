@@ -1,4 +1,4 @@
-﻿
+﻿/*Function to return minimum date from the two dates passed as parameter*/
 
 CREATE FUNCTION [dbo].[udfMinimumDate] (
     @x DATETIME, 
